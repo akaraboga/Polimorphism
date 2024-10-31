@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
